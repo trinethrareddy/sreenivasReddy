@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.scss';
+import 'antd/dist/antd.css'
 import { HomeComponent } from './Components/Home';
 
 class App extends Component {
